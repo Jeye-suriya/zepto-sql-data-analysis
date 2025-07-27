@@ -4,8 +4,7 @@ This project involves end-to-end data exploration, cleaning, and analysis of pro
 
 ## 📁 Contents
 
-- `zepto_analysis.sql`: SQL script to create the table, explore, clean, and analyze data.
-- `data/`: Optional folder to store sample CSV/SQL inserts if applicable.
+- `zepto_analysis_sql.sql`: SQL script to create the table, explore, clean, and analyze data.
 
 ## 🔍 Key Insights
 
