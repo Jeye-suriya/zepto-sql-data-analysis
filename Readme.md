@@ -26,6 +26,6 @@ This project involves end-to-end data exploration, cleaning, and analysis of pro
 ## 🚀 How to Run
 
 1. Open any SQL client (PostgreSQL recommended).
-2. Run the script from `zepto_analysis.sql`.
+2. Run the script from `zepto_analysis_sql.sql`.
 3. Optional: Modify or load your own sample data.
 
